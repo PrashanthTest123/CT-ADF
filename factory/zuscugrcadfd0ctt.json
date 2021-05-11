@@ -1,0 +1,9 @@
+{
+	"name": "zuscugrcadfd0ctt",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c3b20ff-6656-4ada-a5f0-fec9ad67cac6",
+		"tenantId": "8ac76c91-e7f1-41ff-a89c-3553b2da2c17"
+	}
+}

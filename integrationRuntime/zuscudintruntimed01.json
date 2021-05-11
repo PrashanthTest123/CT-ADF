@@ -1,0 +1,7 @@
+{
+	"name": "zuscudintruntimed01",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Self Hosted Int Runtime"
+	}
+}
